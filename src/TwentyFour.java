@@ -3,6 +3,9 @@ import java.util.GregorianCalendar;
 
 public class TwentyFour {
 
+    Course24
+
+
     public static String weekday_name( int weekday )
     {
         String result = "";
